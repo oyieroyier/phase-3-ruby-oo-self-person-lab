@@ -46,7 +46,6 @@ the getter method for us):
 ```rb
 class Person
   attr_reader :name
-
 end
 ```
 
